@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Belshick Megason
+🌟 Full Stack Developer | Node.js | PostgreSQL | Redis | RabbitMQ
 
-<!--
-**belshick-megason/belshick-megason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on microservices-based backend systems
+- 🌱 Learning advanced Node.js architecture and distributed systems
+- 💬 Ask me about Express.js, JWT, and scalable APIs
+- ⚡ Fun fact: I love building things that automate work!
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+Node.js | Express.js | PostgreSQL | Redis | RabbitMQ | Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/belshick-megason)
