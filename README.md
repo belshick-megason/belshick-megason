@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Belshick Megason
-🌟 Full Stack Developer | Node.js | PostgreSQL | Redis | RabbitMQ
+🌟 Backend Developer | Node.js | Express js | PostgreSQL | Javascript
 
 - 🔭 I’m currently working on microservices-based backend systems
 - 🌱 Learning advanced Node.js architecture and distributed systems
@@ -7,7 +7,8 @@
 - ⚡ Fun fact: I love building things that automate work!
 
 ## 🛠️ Tech Stack
-Node.js | Express.js | PostgreSQL | Redis | RabbitMQ | Docker
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+Node.js | Express.js | PostgreSQL | Redis
 
 ## 📫 Connect with me
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/belshick-megason)
+[LinkedIn](https://www.linkedin.com/in/belshick-megason/) | [GitHub](https://github.com/belshick-megason)
