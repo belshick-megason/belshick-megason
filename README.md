@@ -41,8 +41,11 @@
 ## 🎓 Education
 
 **Bachelor of Engineering in Computer Science**  
+
 *Anna University, Chennai*  
+
 *Graduated: 2018*
+
 ---
 ## 📫 Connect with me
 - **Email:** belshickmega@gmail.com
