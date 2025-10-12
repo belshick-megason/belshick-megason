@@ -2,6 +2,7 @@
 
 **Senior Software Developer | Backend Engineer**  
 🔧 6+ years of experience in backend development with Node.js, Express.js, and PostgreSQL.
+
 🌍 Currently contributing to **Live Medica**, a product-based company in Chennai.
 
 ---
