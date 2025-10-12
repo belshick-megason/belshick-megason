@@ -1,10 +1,9 @@
 # Hi, I'm Belshick Megason 👋
 
 **Senior Software Developer | Backend Engineer**  
-6+ years of experience in backend development with Node.js, Express.js, and PostgreSQL.  
+🔧 6+ years of experience in backend development with Node.js, Express.js, and PostgreSQL.
+🌍 Currently contributing to **Live Medica**, a product-based company in Chennai.
 
-🏢 **Currently:** Live Medica, Chennai (Product-based company)  
-🌱 **Passionate about:** APIs, Microservices, Database Design, Performance Optimization 
 ---
 ## 🛠 Technologies & Tools
 
@@ -14,7 +13,7 @@
 ---
 ## 💡 About Me
 - Strong backend development experience building **high-performance applications**  
-- Experienced in **microservices architecture** and **message queues** (RabbitMQ)  
+- Experienced in **microservices architecture**
 - Passionate about writing **clean, maintainable code** following **industry best practices**  
 ---
 ## 💼 Work Experience
