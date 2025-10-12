@@ -4,8 +4,7 @@
 6+ years of experience in backend development with Node.js, Express.js, and PostgreSQL.  
 
 🏢 **Currently:** Live Medica, Chennai (Product-based company)  
-🌱 **Passionate about:** APIs, Microservices, Database Design, Performance Optimization  
-📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/aswitha-j)
+🌱 **Passionate about:** APIs, Microservices, Database Design, Performance Optimization 
 
 ---
 ## 🛠 Technologies & Tools
